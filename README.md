@@ -14,11 +14,11 @@ Este projeto foi realizado com o intuito de compreender melhor os conceitos de d
 
 ## Uso 
 ### Backend
- - Iniciar o servidor backend (pasta server): *npm run dev*
-   Abrir o navegador e aceder: `http://localhost:8080/api`
+Iniciar o servidor backend (pasta server): *npm run dev*
+  - Abrir o navegador e aceder: `http://localhost:8080/api`
 ### Frontent
-  - Navegar até ao diretório do frontend (pasta client) e iniciar frontend: *npm run dev*
-    Abrir o navegador e aceder: `http://localhost:5173`.
+Navegar até ao diretório do frontend (pasta client) e iniciar frontend: *npm run dev*
+  - Abrir o navegador e aceder: `http://localhost:5173`.
 ### Backend + Frontend
 - Certificar de que o backend e o frontend estão a correr simultaneamente.
 - Aceder ao frontend pelo navegador em `http://localhost:5173`.
