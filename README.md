@@ -1,6 +1,6 @@
 # Vite-Calculator
 
-Este projeto foi realizado com o intuito de compreender melhor os conceitos de desenvolvimento de web do javscript, nomeadamente utilizando React.js para frontend e Express.js e Node.js para criar o backend.
+Este projeto foi realizado com o intuito de compreender melhor os conceitos de desenvolvimento web em JavaScript, utilizando React.js para criar o frontend e Express.js com Node.js para criar o backend.
 
 ## Pré-requisitos
  - Node.js (versão X ou superior) - Download Node.js
