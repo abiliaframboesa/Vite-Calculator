@@ -1,0 +1,72 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* App.css */
+
+/* Contêiner geral */
+.container {
+  /* font-family: 'Roboto', sans-serif; */
+  text-align: center;
+  padding: 20px;
+  /* background-color: #f4f4f9; */
+  max-width: 1200px; /* Limita a largura máxima */
+  margin: 0 auto; /* Centraliza horizontalmente */
+}
+
+/* Cabeçalhos */
+.heading {
+  color: #dbddf6;
+  font-size: 2.5rem;
+  margin: 20px 0;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 40;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  margin: 20px 0;
+}
+
+.subheading {
+  color: #9faceb;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+
+/* Container de cards */
+.card-container {
+  display: flex;
+  justify-content: center;
+  gap: 30px; /* Espaçamento entre os cards */
+  flex-wrap: wrap; /* Permite que os cards se movam para uma nova linha em telas menores */
+}
+
+/* Cartões */
+.card {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: 250px;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Texto dos cartões */
+.card-text {
+  margin-top: 10px;
+  font-size: 1rem;
+  color: #555; 
+}
+
+/* Efeito de hover */
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
