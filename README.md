@@ -53,6 +53,6 @@ Este projeto foi realizado com o intuito de compreender melhor os conceitos de d
  - Axios: Biblioteca para requisições HTTP.
 
 ## Exemplo de Funcionamento
-![Exemplo de Funcionamento](./client/images/homepage.png)
-![Exemplo de Funcionamento](./client/images/bmi.png)
-![Exemplo de Funcionamento](./client/images/calculator.png)
+![HomePage](./client/images/homepage.png)
+![BMI Calculator](./client/images/bmi.png)
+![Calculator](./client/images/calculator.png)
