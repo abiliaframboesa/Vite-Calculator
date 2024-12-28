@@ -52,5 +52,7 @@ Este projeto foi realizado com o intuito de compreender melhor os conceitos de d
  - CORS: Para permitir o acesso do frontend ao backend.
  - Axios: Biblioteca para requisições HTTP.
 
-
-
+## Exemplo de Funcionamento
+![Exemplo de Funcionamento](./client/images/homepage.png)
+![Exemplo de Funcionamento](./client/images/bmi.png)
+![Exemplo de Funcionamento](./client/images/calculator.png)
