@@ -55,4 +55,4 @@ Este projeto foi realizado com o intuito de compreender melhor os conceitos de d
 ## Exemplo de Funcionamento
 ![HomePage](./client/src/images/homepage.jpg)
 ![BMI Calculator](./client/src/images/BMI.jpg)
-![Calculator](./client/images/src/calculator.jpg)
+![Calculator](./client/src/images/calculator.jpg)
